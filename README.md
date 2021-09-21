@@ -1,2 +1,2 @@
 # PracticeDSA
-Random
+Random program pratice problems
